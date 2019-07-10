@@ -4,7 +4,7 @@ spring:
     password:
     port: 6379
     database: 0
-    lettuce: # redisÄ¬ÈÏÁ¬½Ó³Ø
+    lettuce: # redisé»˜è®¤è¿æ¥æ± 
       pool:
         max-idle: 8
         min-idle: 0
