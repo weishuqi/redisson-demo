@@ -6,6 +6,11 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
 
+/**
+ * 测试消息发送
+ * @Author dzq
+ * @Date  2019/7/10 16:44
+ **/
 @Component
 @EnableScheduling
 public class MessageSender {
